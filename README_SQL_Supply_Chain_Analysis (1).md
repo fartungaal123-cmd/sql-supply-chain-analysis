@@ -138,3 +138,10 @@ This project demonstrates how SQL can be used to analyse supply chain data and i
 By combining purchase order, product, and supplier information, the analysis identified frequent delivery delays, variations in supplier performance, and products with relatively high proportions of negative inventory cover margins.
 
 The findings can help guide further investigation and support more informed supply chain decisions. The project also demonstrates practical use of SQL techniques, including filtering, aggregation, grouping, conditional logic, and joins.
+
+## Dashboard Preview
+
+The dashboard summarizes supply chain performance, supplier delivery delays, and potential inventory risks.
+
+![Supply Chain Analysis Dashboard](supply_chain_dashboard.png)
+
