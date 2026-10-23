@@ -143,5 +143,5 @@ The findings can help guide further investigation and support more informed supp
 
 The dashboard summarizes supply chain performance, supplier delivery delays, and potential inventory risks.
 
-![Supply Chain Analysis Dashboard](supply_chain_dashboard.png)
+![Supply Chain Analysis Dashboard](supply_chain_dashboard.png.pdf)
 
